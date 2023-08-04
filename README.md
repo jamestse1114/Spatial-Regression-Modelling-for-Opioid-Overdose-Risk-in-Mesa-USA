@@ -25,11 +25,11 @@ To run the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have the necessary R packages installed. You can install these dependencies using the list of libraries in the R Markdown file.
-3. Open the R Markdown file in RStudio and run the chunks of code in the given order. The report is also incorporated in the R Markdown file.
+3. Open the R Markdown file in RStudio and run the chunks of code in the given order. The report is also incorporated in the R Markdown file. You may also read the `Project Report.pdf` instead.
 
 ## Dependencies
 
-This project uses a variety of R packages, including knitr, tidyverse, dplyr, sf, sp, tidycensus, RSocrata, and many others. Ensure you have all these packages installed before running the code.\
+This project uses a variety of R packages, including knitr, tidyverse, dplyr, sf, sp, tidycensus, RSocrata, and many others. Ensure you have all these packages installed before running the code.
 
 ## Authors
 
